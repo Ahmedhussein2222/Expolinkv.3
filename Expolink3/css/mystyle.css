@@ -1,0 +1,187 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+/*
+@charset "utf-8";
+/* CSS Document */
+
+.frame{
+    
+    
+    
+    background-color:  #343a40; 
+	padding: 25px;
+	color:white;
+	font-size: 15px;
+	text-align: center;
+	margin: 0 auto;
+	
+}
+
+.framek{
+	
+	
+	 background-color:  #343a40 !important; 
+	padding: 20px;
+	color:white;
+	font-size: 15px;
+	text-align: center;
+	margin: 0 auto;
+	
+}
+
+.frames{
+	
+	
+	 background-color:  #dc3545; 
+	padding: 20px;
+	color:white;
+	font-size: 15px;
+	text-align: center;
+	margin: 0 auto;
+	
+	
+}
+
+#cs{
+	
+	color:#dc3545;
+}
+	
+	
+	
+
+
+.xc{
+	
+	
+	
+	
+	padding: 20px;
+	margin: 20px;
+}
+#s{
+	
+	
+	
+	color: white;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+
+
+.line{
+	
+	
+	
+	
+	    border-color:#dc3545;
+    border-width: 3px;
+    max-width: 50px;
+}
+
+
+
+.hrlight{
+	
+	
+	
+	
+	    border-color:white;
+    border-width: 3px;
+    max-width: 50px;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover	{
+	
+		 color:#dc3545;
+
+	
+}
+
+
+
+
+.btn-warning {
+    color: white;
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
+.navbar-dark .navbar-nav .nav-link{
+	
+	
+	color: white;
+}
+
+
+a{
+		
+		color: black;
+		
+	}
+
+
+footer a{
+		
+		color: white;
+		
+	}
+
+
+ a:hover
+ {
+	 text-decoration-line: none;
+  color:#dc3545;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+.btn-outline {
+  color: white;
+  border-color: white;
+  border: 1px solid;
+	
+}
+.btn-outline:hover,
+.btn-outline:focus,
+.btn-outline:active,
+.btn-outline.active {
+  color: white;
+  background-color: #fdcc52;
+  border-color: #fdcc52;
+}
+.btn {
+  font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-radius: 300px;
+}
+.btn-xl {
+  padding: 15px 45px;
+	font-size: 11px;}
+
+
+	
+	.footer-top input[type="email"] {
+    background: #2b2a2a;
+    border: none;
+    width: 40%;
+    outline: none;
+    border-radius: 25px;
+    padding: .7em 3em .7em 1em;
+    font-size: 1.2em;
+    color: #fff;
+    margin-right: 5em;
+	}
